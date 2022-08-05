@@ -1,0 +1,45 @@
+*{
+    font-family: 'Jost', sans-serif;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    width: 100%;
+    background-color: black;
+    align-items: center;
+    padding: 2em;
+}
+.navbar_left{
+font-size: 40px;
+width: 50%;
+font-weight: bold;
+cursor: pointer;
+color: white;
+margin-left: 10px;
+}
+.navbar_right{
+    font-size: 22px;
+width: 50%;
+justify-content: space-between;
+    padding-left: 13em;
+ 
+}
+.navbar__a{
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 .5em;
+    width: 50%;
+    
+    color: white;
+}
+.left__header__{
+   background-color: black;
+   color: white;
+}
