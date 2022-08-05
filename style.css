@@ -136,7 +136,7 @@ body {
 .project_all {
   width: 100%;
   display: flex;
-  /* flex-direction: column; */
+
   justify-content: space-between;
   padding: 2em;
 }
